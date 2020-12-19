@@ -59,7 +59,7 @@ namespace Homework2
 
             */
 
-            // Задание 4
+            // Задание 3
 
             /*
             Console.WriteLine("Введите радиус:");
@@ -89,7 +89,7 @@ namespace Homework2
 
             */
 
-            // Задание 5
+            // Задание 4
 
             Random rnd = new Random();
             int a = rnd.Next(0, 30);
